@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Check_List_App/static/css/main.ce384049.css",
+    "main.js": "/Check_List_App/static/js/main.5305297a.js",
+    "static/media/delete.svg": "/Check_List_App/static/media/delete.80ad713adbe349bae510ea54dbe442b3.svg",
+    "index.html": "/Check_List_App/index.html",
+    "static/media/check.svg": "/Check_List_App/static/media/check.f16c3ae53cd894a1e5a197ecfd7d9785.svg",
+    "main.ce384049.css.map": "/Check_List_App/static/css/main.ce384049.css.map",
+    "main.5305297a.js.map": "/Check_List_App/static/js/main.5305297a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce384049.css",
+    "static/js/main.5305297a.js"
+  ]
+}
